@@ -1,0 +1,64 @@
+Name: Brad Feinman
+Gender: M
+Phone: (831) 202-3443
+Email: bradisrad@gmail.com
+Name: Mohammed Abbas
+Gender: M
+Phone: (408) 313-4444
+Email: downtown_abbas@yahoo.com
+Name: Alvin Ngo
+Gender: M
+Phone: (408) 925-6677
+Email: drngo@hotmail.com
+Name: Abir Fadel
+Gender: M
+Phone: (831) 664-5325
+Email: greatabs@comcast.com
+Name: Ally Gu
+Gender: O
+Phone: (408) 925-6776
+Email: i_am_ally@comcast.net
+Name: James Brown
+Gender: M
+Phone: (831) 567-8432
+Email: jaime.boy.brown@hotmail.com
+Name: Jung Ahrin
+Gender: F
+Phone: (831) 925-7788
+Email: jung_ahrin@yahoo.com
+Name: Jiming Wu
+Gender: F
+Phone: (408) 212-3458
+Email: jwu@gmail.com
+Name: Kumari Chakrabarti
+Gender: F
+Phone: (408) 666-7777
+Email: kukuchakrabarti@hotmail.com
+Name: Leanna Perez
+Gender: F
+Phone: (408) 765-4433
+Email: leaperez@yahoo.com
+Name: Pedro Martinez
+Gender: M
+Phone: (408) 616-2323
+Email: pedro2018@sbcglobal.net
+Name: Stacey Cahill
+Gender: O
+Phone: (831) 212-3333
+Email: scahill@gmail.com
+Name: Shakil Smith
+Gender: M
+Phone: (408) 212-3333
+Email: shakattaq@gmail.com
+Name: Tamara White
+Gender: F
+Phone: (831) 777-8978
+Email: tamtastic@gmail.com
+Name: Xing Li
+Gender: M
+Phone: (831) 321-4555
+Email: xing.li@sbcglobal.net
+Name: Xiaohang Yue
+Gender: M
+Phone: (831) 899-0033
+Email: yue95@yahoo.com
